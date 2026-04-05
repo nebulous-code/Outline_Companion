@@ -1,57 +1,107 @@
 {
   "main": {
-    "id": "c534792a2a6252b2",
+    "id": "dc6f6d1e5ef9bc3c",
     "type": "split",
     "children": [
       {
-        "id": "6a5ed33676ec401e",
+        "id": "31a67c23fe5c7bd8",
         "type": "tabs",
         "children": [
           {
-            "id": "78a523af0481ff49",
+            "id": "72265df94357fe8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Manuscript/C01 S01 - Title.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "C01 S01 - Title"
             }
           }
         ]
       },
       {
-        "id": "5e600a7b3e4487ae",
-        "type": "tabs",
+        "id": "08014300d44fbba1",
+        "type": "split",
         "children": [
           {
-            "id": "601507afb1140f6a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
+            "id": "b0cce0741b99c549",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5e5f6d542735cc62",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Meta/Navigation Guide.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Navigation Guide"
+                }
+              }
+            ]
+          },
+          {
+            "id": "04d4e563bda514f5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1fa4408be2d909aa",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "README"
+                }
+              },
+              {
+                "id": "b3c0a67a5d86f50d",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Meta/Templates/Outline Companion.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Outline Companion"
+                }
+              }
+            ],
+            "currentTab": 1
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "29aa44bdfd3beaaf",
+    "id": "33dbb42491cf8e9a",
     "type": "split",
     "children": [
       {
-        "id": "db4d2e378f11446e",
+        "id": "05db11a49236f456",
         "type": "tabs",
         "children": [
           {
-            "id": "6b2c191a4478cfea",
+            "id": "252696c657f17254",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,7 +114,7 @@
             }
           },
           {
-            "id": "c2dc390c3d9aadd0",
+            "id": "9a0b91c8f24dd79a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -81,7 +131,7 @@
             }
           },
           {
-            "id": "f30ffafa311f6b3f",
+            "id": "8c72d0e8e35723cb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,20 +147,20 @@
     "width": 300
   },
   "right": {
-    "id": "e4c25690a94dde94",
+    "id": "6c736fec995ea754",
     "type": "split",
     "children": [
       {
-        "id": "b798336051ce8755",
+        "id": "24eeacad07d783b5",
         "type": "tabs",
         "children": [
           {
-            "id": "b3bee353d6e6349d",
+            "id": "fdc0f74400e2800d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Meta/Templates/Update Companion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,25 +170,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Update Companion"
             }
           },
           {
-            "id": "a28beec305d9a9a8",
+            "id": "d735a2bb29440dfd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Meta/Templates/Update Companion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Update Companion"
             }
           },
           {
-            "id": "675f44cf049bf4c6",
+            "id": "df19e0f51e26321b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,35 +203,22 @@
             }
           },
           {
-            "id": "b5b14f7ce1d5d3e7",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "ef10bbadba56a3cd",
+            "id": "9b6722dd24f5d012",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Meta/Templates/Update Companion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Update Companion"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -191,16 +228,51 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "obsidian-flexible-pomo:Start Pomodoro": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "78a523af0481ff49",
+  "active": "252696c657f17254",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Manuscript/C01 S01 - Title.md",
+    "Untitled.md",
+    "Meta/Templates/Outline Companion.md",
+    "Manuscript/C02 S01 - Title.md",
+    "Meta/Navigation Guide.md",
+    "Metadata/Meta C02 S01 - Title.md",
+    "Metadata/Meta C01 S01 - Title.md",
+    "README.md",
+    "Meta/Templates/Split Debug.md",
+    "Meta/Templates/Simple Notification.md",
+    "Meta/Templates/Outline Companion - Readme.md",
+    "Meta/Templates/Meta C__ S__ - Title.md",
+    "Meta/Templates/C__ S__ - Title.md",
+    "Meta/_Journal.md",
+    "Meta/Style Guide.md",
+    "Meta/Quick Links.md",
+    "Meta/Quick Reference.md",
+    "Meta/Conversion of Manuscript.md",
+    "Metadata/RO C02 S01 - Title.md",
+    "Metadata/RO C01 S01 - Title.md",
+    "Metadata",
+    "Update Companion - Readme.md",
+    "Reverse Outline/RO C02 S01 - Title.md",
+    "Reverse Outline/RO C01 S01 - Title.md",
+    "Pomodoro Log.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "2026-04-04.md",
+    "Reverse Outline/RO C__ S__ - Title.md",
+    "Manuscript/1",
+    "Test Canvas.canvas",
+    "Manuscript/9",
+    "Reverse Outline/8",
+    "Reverse Outline/7",
+    "Reverse Outline/6",
+    "Reverse Outline/5"
   ]
 }
