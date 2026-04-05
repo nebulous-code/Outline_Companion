@@ -230,12 +230,15 @@
       "switcher:Open quick switcher": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-flexible-pomo:Start Pomodoro": false,
       "templater-obsidian:Templater": false
     }
   },
   "active": "252696c657f17254",
   "lastOpenFiles": [
+    "Meta/Templates/Outline Companion README.md",
+    "Meta/Templates/Outline Companion Config.js",
+    "Meta/Templates/Outline Companion New Chapter.md",
+    "Meta/Templates/Outline Companion Debug.md",
     "Manuscript/C01 S01 - Title.md",
     "Untitled.md",
     "Meta/Templates/Outline Companion.md",
@@ -260,19 +263,15 @@
     "Update Companion - Readme.md",
     "Reverse Outline/RO C02 S01 - Title.md",
     "Reverse Outline/RO C01 S01 - Title.md",
-    "Pomodoro Log.md",
     "Untitled.canvas",
     "Untitled.base",
     "Untitled 2.base",
     "Untitled 1.base",
-    "2026-04-04.md",
-    "Reverse Outline/RO C__ S__ - Title.md",
     "Manuscript/1",
     "Test Canvas.canvas",
     "Manuscript/9",
     "Reverse Outline/8",
     "Reverse Outline/7",
-    "Reverse Outline/6",
-    "Reverse Outline/5"
+    "Reverse Outline/6"
   ]
 }
